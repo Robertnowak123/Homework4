@@ -1,0 +1,65 @@
+#imagegallery {
+	font-size: 50px;
+	font-family: Papyrus, fantasy;
+	border-style: solid;
+	background-color: black;
+	position: fixed;
+	text-align: center;
+	color: white;
+	width: 100%;
+	margin-top: -10px;
+
+}
+
+#image1 {
+	float: left;
+	margin-top: 250px;
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 5px;
+	margin-right: 25px;
+
+
+}
+
+#image4 {
+	float: left;
+	margin-top: 250px;
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 5px;
+	margin-right: 25px;
+
+}
+
+#image5 {
+	float: left;
+	margin-top: 250px;
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 5px;
+
+}
+
+
+#image6 {
+	float: left;
+	margin-top: 50px;
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 5px;
+	margin-right: 25px;
+
+}
+
+
+#image7 {
+	float: left;
+	margin-top: 50px;
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 5px;
+	margin-right: 25px;
+
+}
+
